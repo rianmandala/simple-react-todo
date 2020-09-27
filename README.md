@@ -1,5 +1,5 @@
 # simple-react-todo
-this is my first project with react, so what is about, this is just simple todo react
+this is my first project with react, so what is about, this is just simple todo react.
 you can click here to see this app https://rianmandala.github.io/simple-react-todo/
 # instruction
 First clone this repository
