@@ -1,4 +1,4 @@
-# simple-react-todo https://img.shields.io/badge/react-16.13.1-blue
+# simple-react-todo (https://img.shields.io/badge/react-16.13.1-blue)
 this is my first project with react, so what is about, this is just simple todo react.
 
 you can click here to see this app https://rianmandala.github.io/simple-react-todo/
