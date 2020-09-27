@@ -1,6 +1,7 @@
 # simple react todo <img src="https://img.shields.io/badge/react-16.13.1-blue" alt="react-badge" /> <img src="https://img.shields.io/badge/react--dom-16.13.1-orange" alt="react-dom-badge" /> <img src="https://img.shields.io/badge/react--fontawesome-0.1.11-success" alt="react fontawesome" />
 
 this is my first project with react, so what is about, this is just simple todo list app with power to save data to localstorage api 😊
+
 you can click here to see this app https://rianmandala.github.io/simple-react-todo/
 
 # instruction
